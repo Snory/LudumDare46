@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: b4ceb2b228c679d4982d3595d66a4766
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5278660124544814949
+    second: basicenemy_0
+  - first:
+      213: 1049416888616581863
+    second: basicenemy_1
+  - first:
+      213: -7402950277307094563
+    second: basicenemy_2
+  - first:
+      213: -254616089585430155
+    second: basicenemy_3
+  - first:
+      213: 3293712262650527373
+    second: basicenemy_4
+  - first:
+      213: 2721111615468847229
+    second: basicenemy_5
+  - first:
+      213: -3751883096914671096
+    second: basicenemy_6
+  - first:
+      213: 8106847045209846488
+    second: basicenemy_7
+  - first:
+      213: 2681292833201017060
+    second: basicenemy_8
+  - first:
+      213: 649311978962561965
+    second: basicenemy_9
+  - first:
+      213: -5159442472295904240
+    second: basicenemy_10
+  - first:
+      213: 389292236898153448
+    second: basicenemy_0
+  - first:
+      213: 8930107937278736499
+    second: basicenemy_1
+  - first:
+      213: -801856806899797487
+    second: basicenemy_2
+  - first:
+      213: 6304804399092325858
+    second: basicenemy_3
+  - first:
+      213: -8802770608573358523
+    second: basicenemy_4
+  - first:
+      213: 3214057162872736234
+    second: basicenemy_5
+  - first:
+      213: 2877560391025203151
+    second: basicenemy_6
+  - first:
+      213: 4110991930524604438
+    second: basicenemy_7
+  - first:
+      213: 7575786153131713596
+    second: basicenemy_8
+  - first:
+      213: 883133889080687438
+    second: basicenemy_9
+  - first:
+      213: 5585581747792392256
+    second: basicenemy_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basicenemy_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1122
+        width: 173
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b1261a3b076500800000000000000
+      internalID: 389292236898153448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1123
+        width: 173
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378356feadd1eeb70800000000000000
+      internalID: 8930107937278736499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 790
+        width: 173
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11232088b7b3fd4f0800000000000000
+      internalID: -801856806899797487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 790
+        width: 173
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd73a523a2f7750800000000000000
+      internalID: 6304804399092325858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 789
+        width: 174
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5cb445c646d580800000000000000
+      internalID: -8802770608573358523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 421
+        width: 173
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae944d8f5ff9a9c20800000000000000
+      internalID: 3214057162872736234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 424
+        width: 174
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc79acefde52fe720800000000000000
+      internalID: 2877560391025203151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 423
+        width: 173
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6189a6d316d2d0930800000000000000
+      internalID: 4110991930524604438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 173
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c342db73e59922960800000000000000
+      internalID: 7575786153131713596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 30
+        width: 226
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b73c3d795814c00800000000000000
+      internalID: 883133889080687438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicenemy_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 31
+        width: 174
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04032158109f38d40800000000000000
+      internalID: 5585581747792392256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 895e1b613ca6f9f429361a0638c05d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3054219110806708924
+    second: actionboard2_0
+  - first:
+      213: 3794656423615518413
+    second: actionboard2_1
+  - first:
+      213: 679248732378022609
+    second: actionboard2_2
+  - first:
+      213: 1365788790808192454
+    second: actionboard2_0
+  - first:
+      213: -5158082320989226549
+    second: actionboard2_1
+  - first:
+      213: 4469421183427287867
+    second: actionboard2_2
+  - first:
+      213: -8343824976673876144
+    second: actionboard2_3
+  - first:
+      213: -1129268435967704906
+    second: actionboard2_4
+  - first:
+      213: 3456884255577430772
+    second: actionboard2_3
+  - first:
+      213: -3726379309049432503
+    second: actionboard2_4
+  - first:
+      213: 6885427607503613384
+    second: actionboard2_5
+  - first:
+      213: 1216977001480338745
+    second: actionboard2_6
+  - first:
+      213: -7686506988159042204
+    second: actionboard2_7
+  - first:
+      213: 9143029269824212124
+    second: actionboard2_5
+  - first:
+      213: 9087246538623587098
+    second: actionboard2_6
+  - first:
+      213: -2792450945480424095
+    second: actionboard2_7
+  - first:
+      213: -1160026327942020486
+    second: actionboard2_8
+  - first:
+      213: -9054610037086546976
+    second: actionboard2_8
+  - first:
+      213: 4792297578806459386
+    second: actionboard2_9
+  - first:
+      213: -2141951522224069567
+    second: actionboard2_10
+  - first:
+      213: 3072345817697704243
+    second: actionboard2_9
+  - first:
+      213: 3159868603218812057
+    second: actionboard2_10
+  - first:
+      213: 5476514271625549906
+    second: actionboard2_11
+  - first:
+      213: 5619914977299642207
+    second: actionboard2_11
+  - first:
+      213: -1628526419976927302
+    second: actionboard2_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: actionboard2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 760
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c525524ba144f210800000000000000
+      internalID: 1365788790808192454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 709
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f63f257fca68b0800000000000000
+      internalID: -5158082320989226549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 709
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1ac5e2e2960e30800000000000000
+      internalID: 4469421183427287867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 709
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa55534ae159ff20800000000000000
+      internalID: 3456884255577430772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 644
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9463eb9f2cd394cc0800000000000000
+      internalID: -3726379309049432503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 634
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0fd6dda092ee70800000000000000
+      internalID: 9143029269824212124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 611
+        width: 111
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139e01a4926c1e70800000000000000
+      internalID: 9087246538623587098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 591
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658fedf8a83f39d0800000000000000
+      internalID: -2792450945480424095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 179
+        width: 714
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e315c70520975280800000000000000
+      internalID: -9054610037086546976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 157
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33957034e3a23aa20800000000000000
+      internalID: 3072345817697704243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c54cfb0cb1adb20800000000000000
+      internalID: 3159868603218812057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 18
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b7d175e2fdfd40800000000000000
+      internalID: 5619914977299642207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actionboard2_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 23
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7cfed69df4669e0800000000000000
+      internalID: -1628526419976927302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
